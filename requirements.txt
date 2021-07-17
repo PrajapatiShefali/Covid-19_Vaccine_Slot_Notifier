@@ -1,0 +1,6 @@
+dictdiffer==0.8.1
+fake-useragent==0.1.11
+requests==2.25.1
+telegram==0.0.1
+telegram-send==0.25
+urllib3==1.26.5
