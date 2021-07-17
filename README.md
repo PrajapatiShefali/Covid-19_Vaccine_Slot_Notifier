@@ -1,4 +1,4 @@
-# PyCowinTelegram
+# Covid-19 Vaccine Notifier
 Queries <b>Cowin public API</b>, then sends the details of new slots in your district to your <b>Telegram</b> Channel or Group.
 
 Made with ❤️ using <b>Python</b> 🐍.
@@ -90,3 +90,4 @@ BotFather will help us in creating the new bot.
 <h3> Show your ❤️ by ⭐ this Repository </h3> 
 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FshefaliP24%2FCovid-19_Vaccine_Slot_Notifier&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
